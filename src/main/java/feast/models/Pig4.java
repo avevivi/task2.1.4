@@ -10,6 +10,7 @@ public class Pig4 {
     private Lamb5 lamb5;
 
     public Pig4(Lamb5 lamb5) {
+        this.lamb5 = lamb5;
     }
 
 
